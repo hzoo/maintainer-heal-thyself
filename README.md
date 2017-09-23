@@ -1,6 +1,6 @@
 # [React Boston 2017](http://www.reactboston.com)
 
-## Maintainer, Heal Thyself
+![](slide.png)
 
 ## [Slides](http://henryzoo.com/maintainer-heal-thyself)
 

@@ -6,6 +6,11 @@
 
 ## Video TBD
 
+## Other Related Talks
+
+- JSConf EU 2017: https://github.com/hzoo/maintaining-an-oss-project
+- React Rally 2017: https://github.com/hzoo/so-how-does-babel-even-work
+
 ## Getting involved in Babel
 - [Babel Org on Github](https://github.com/babel)
 - [Babel Proposals Repo](https://github.com/babel/proposals)

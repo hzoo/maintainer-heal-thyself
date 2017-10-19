@@ -6,6 +6,8 @@
 
 ## Video TBD
 
+> [Stream link](https://www.youtube.com/watch?v=iFgSvLUzQSU) (not the best quality)
+
 ## Other Related Talks
 
 - JSConf EU 2017: https://github.com/hzoo/maintaining-an-oss-project

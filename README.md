@@ -4,9 +4,7 @@
 
 ## [Slides](https://hzoo.github.io/maintainer-heal-thyself/)
 
-## Video TBD
-
-> [Stream link](https://www.youtube.com/watch?v=iFgSvLUzQSU) (not the best quality)
+## [Stream link (low quality)](https://www.youtube.com/watch?v=iFgSvLUzQSU) (not the best quality)
 
 ## Other Related Talks
 

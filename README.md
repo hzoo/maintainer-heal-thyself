@@ -2,7 +2,7 @@
 
 ![](slide.png)
 
-## [Slides](http://henryzoo.com/maintainer-heal-thyself)
+## [Slides](https://hzoo.github.io/maintainer-heal-thyself/)
 
 ## Video TBD
 
